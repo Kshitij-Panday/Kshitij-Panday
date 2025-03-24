@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kshitij-Panday
 - 👀 I’m interested in Software development
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning java
 - 📫 Contact: kshitijpanday06@gmail.com
 - ⚡ Fun fact: Coding will soon be as important as reading.
 
