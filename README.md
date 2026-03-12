@@ -25,7 +25,7 @@ Building strong fundamentals in Java, Backend Development and Problem Solving.
 <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode,idea,mysql" />
 </p>
 
-🔗 Icons from: https://skillicons.dev
+
 
 ---
 
