@@ -10,16 +10,16 @@ Building strong fundamentals in Java, Backend Development and Problem Solving.
 
 ---
 
-## ⚡ About Me
+##  About Me
 
-* 💻 Interested in **Software Development**
-* ☕ Currently focusing on **Java Backend Development**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🚀 Preparing for **Software Development Internships and Placements**
+*  Interested in **Software Development**
+*  Currently focusing on **Java Backend Development**
+*  Practicing **Data Structures & Algorithms**
+*  Preparing for **Software Development Internships and Placements**
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode,idea,mysql" />
@@ -29,35 +29,35 @@ Building strong fundamentals in Java, Backend Development and Problem Solving.
 
 ---
 
-## 📚 What I Have Learned
+##  What I Have Learned
 
-* ✅ Java
-* ✅ CSS
-* ✅ HTML
-* ✅ Object Oriented Programming (OOP)
-
----
-
-## 📖 What I Am Currently Learning
-
-* 📘 Java Collections Framework
-* 📘 JavaScript
-* 📘 Data Structures & Algorithms
+*  Java
+*  CSS
+*  HTML
+*  Object Oriented Programming (OOP)
 
 ---
 
-## 🚀 What I Plan To Learn Next
+##  What I Am Currently Learning
 
-* 🔜 SQL & Database Design
-* 🔜 Spring Boot
-* 🔜 REST API Development
-* 🔜 Backend System Design
+*  Java Collections Framework
+*  JavaScript
+*  Data Structures & Algorithms
 
 ---
 
-## 📫 Contact
+##  What I Plan To Learn Next
 
-📧 Email: [kshitijpanday06@gmail.com](mailto:kshitijpanday06@gmail.com)
+*  SQL & Database Design
+*  Spring Boot
+*  REST API Development
+*  Backend System Design
+
+---
+
+##  Contact
+
+ Email: [kshitijpanday06@gmail.com](mailto:kshitijpanday06@gmail.com)
 
 ---
 
