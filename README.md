@@ -8,3 +8,4 @@
 Kshitij-Panday/Kshitij-Panday is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<img src="https://skillicons.dev/icons?i=java,js,html,css,git,github,vscode,idea,mysql" />
