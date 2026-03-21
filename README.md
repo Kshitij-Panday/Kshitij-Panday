@@ -1,7 +1,7 @@
 <h1 align="center">Kshitij Panday</h1>
 
 <p align="center">
-<i>Aspiring Java Backend Developer • Engineering Student</i>
+<i> Java Backend Developer • Engineering Student</i>
 </p>
 
 <p align="center">
@@ -32,26 +32,10 @@ Building strong fundamentals in Java, Backend Development and Problem Solving.
 ##  What I Have Learned
 
 *  Java
+*  JavaScript(ES6+)
 *  CSS
 *  HTML
 *  Object Oriented Programming (OOP)
-
----
-
-##  What I Am Currently Learning
-
-*  Java Collections Framework
-*  JavaScript
-*  Data Structures & Algorithms
-
----
-
-##  What I Plan To Learn Next
-
-*  SQL & Database Design
-*  Spring Boot
-*  REST API Development
-*  Backend System Design
 
 ---
 
