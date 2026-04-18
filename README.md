@@ -1,7 +1,7 @@
 <h1 align="center">Kshitij Panday</h1>
 
 <p align="center">
-<i> Java Backend Developer • Engineering Student</i>
+<marquee><i> Java Backend Developer • Engineering Student</i></marquee> 
 </p>
 
 <p align="center">
