@@ -1,7 +1,7 @@
 <h1 align="center">Kshitij Panday</h1>
 
 <p align="center">
-<marquee><i> Java Backend Developer • Engineering Student</i></marquee> 
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=500&lines=Java+Backend+Developer;Engineering+Student" />
 </p>
 
 <p align="center">
