@@ -32,7 +32,7 @@ Building strong fundamentals in Java, Backend Development and Problem Solving.
 ##  What I Have Learned
 
 *  Java
-*  JavaScript(ES6+)
+*  JavaScript
 *  CSS
 *  HTML
 *  Object Oriented Programming (OOP)
