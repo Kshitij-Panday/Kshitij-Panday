@@ -13,7 +13,7 @@ Building strong fundamentals in Java, Backend Development and Problem Solving.
 ##  About Me
 
 *  Interested in **Software Development**
-*  Currently focusing on **Java Backend Development**
+*  Currently focusing on **Java Development**
 *  Practicing **Data Structures & Algorithms**
 *  Preparing for **Software Development Internships and Placements**
 
